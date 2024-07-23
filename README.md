@@ -1,1 +1,6 @@
-# Creez-et-utilisez-une-base-de-donn-es-immobili-re-avec-SQL
+# Data Analyst - OC | Projet 3 | Créez et utilisez une base de données immobilière avec SQL
+---
+---
+
+## Compétences acquises 
+---
